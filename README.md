@@ -5,6 +5,6 @@ detecter_index(List<String> A) : prends une liste d'elements et renvoie l'indice
   
 Exemple :
 
-A = [ a , b , c , d , e , a , b ,c ]
+List A = [ a , b , c , d , e , a , b , c ]
 
-detecter_index(A); // =  A[4] = "e"
+detecter_index(A); //  A[5] = "a"
